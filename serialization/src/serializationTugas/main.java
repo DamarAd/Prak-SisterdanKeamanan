@@ -15,7 +15,7 @@ public class main {
      public static void main(String[] args) throws IOException {
         
         String fileName = "D:/dataser.txt";
-        String fileBaru = "D:/dataBaru.txt";
+        String fileBaru = "D:/dataBaruMahasiswa.txt";
         ArrayList<participant> datamu = new ArrayList<participant>();
         serialization task = new serialization();
         ArrayList<participant> newList = null;
